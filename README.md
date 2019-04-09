@@ -1,7 +1,7 @@
 # clickygame
 
 
-clicky game built with react, react-router and bootstrap for styling.
+clicky game built with create react app.
 
 the user must select a different can each time. if the same can is selected a second time, the game is over.
 
