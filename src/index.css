@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: red;
+  margin-top:0px;
+  padding-top:0px;
+}
+html{
+  margin-top:0px;
+  padding-top:0px;
+}
+.row, .col{
+  margin-top:0px;
+  padding-top:0px;
+}
+cardWrap{
+  margin-right:300px;
+}
+

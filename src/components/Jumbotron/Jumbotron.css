@@ -1,0 +1,20 @@
+.jumbotron{
+    text-align:center;
+    background-color:black;
+    color: white;
+    margin-top:0px;
+    padding-top:0px;
+    margin-bottom:0px;
+    padding-bottom:0px;
+    position: relative; top: -22px;
+}
+
+h1 {
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+p {
+    color: white;
+    font-family: 'Caveat', cursive;
+}
