@@ -7,3 +7,5 @@ the user must select a different can each time. if the same can is selected a se
 
 play the game at : https://cocacolacanclick.herokuapp.com/
 
+![Image of Deployed App](https://github.com/ruebush/clickygame/blob/master/preview.png)
+
